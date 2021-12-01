@@ -1,0 +1,27 @@
+#outer-div-one {
+	height: 200px;
+	width: 200px;
+	background-color: red;
+}
+
+#outer-div-two {
+	height: 200px;
+	width: 200px;
+	background-color: green;
+}
+
+
+span {
+	display: block;
+}
+
+
+#outer-div-one {
+	display: inline-block;
+}
+
+
+#outer-div-two {
+	display: inline-block;
+	margin-left: -4px;
+}

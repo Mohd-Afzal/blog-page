@@ -1,0 +1,14 @@
+/*body {
+	margin: 0px;
+}*/
+
+#outer-div {
+	height: 200px;
+	width: 50%;
+	background-color: orange;
+
+	min-width: 70px;
+	/*min-height: 150px;*/
+	overflow: auto;
+
+}

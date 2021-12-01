@@ -1,0 +1,12 @@
+#container-one {
+	height: 100vh;
+	width: 100vw;
+	background-image: url("../static/macbook_mouse.jpg");
+	background-repeat: no-repeat;
+	/*background-size: contain;*/
+	/*background-position: center;*/
+	background-attachment: scroll;
+
+}
+
+

@@ -1,0 +1,22 @@
+
+#outer-div-one {
+	height: 200px;
+	width: 200px;
+	background-color: red;
+
+	padding: 1rem;
+}
+
+
+#inner-div-one {
+	height: 50%;
+	width: 50%;
+	background-color: cyan;
+}
+
+
+#outer-div-two {
+	height: 200px;
+	width: 200px;
+	background-color: orange;
+}

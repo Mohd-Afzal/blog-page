@@ -1,0 +1,15 @@
+html {
+	font-size: 25px;
+}
+
+#container-one {
+	height: 4rem;
+	width:  6rem;
+	background-color: red;
+}
+
+/*#inner-container-one {
+	height: 10%;
+	width: 10% ;
+	background-color: green;
+}*/
